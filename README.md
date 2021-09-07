@@ -1,0 +1,2 @@
+# haskell
+intro with exercises
